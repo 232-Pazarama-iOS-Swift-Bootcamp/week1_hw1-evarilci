@@ -17,7 +17,8 @@ cd Desktop/week1_hw1-evarilci/witchergGame/witchergGame
 swift main.swift
 //press return and you are in
 
-```![to initialize](https://user-images.githubusercontent.com/10756418/192159187-643d32ff-36a2-4b60-97e3-098b1fec8769.png)
+```
+![to initialize](https://user-images.githubusercontent.com/10756418/192159187-643d32ff-36a2-4b60-97e3-098b1fec8769.png)
 
 - you can start the game typing "start" and end the game typing "quit"
 ![type start](https://user-images.githubusercontent.com/10756418/192159195-0fe97fb9-220b-4115-a6c2-85659d895183.png)
