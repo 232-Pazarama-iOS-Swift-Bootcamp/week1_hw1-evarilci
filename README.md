@@ -4,7 +4,7 @@ ilk ödev
 
 # Command line Witcher adventure game
 
-I have been tryring to figure how to build an effecive command line app. Then came up with an idea. idea of making witcher game that playable through command prompts. It was fun to write but because this was an assignment for my bootcamp and ran out of time frankly I could not manage to finish it. But that does not mean that it is not functional nor I won't finish it. As I said it is very fun to work on and and I'm gonna finish it ASAP. 
+I have been tryring to figure how to build an effecive command line app. Then came up with an idea. idea of making witcher game that playable through command prompts. It was fun to write. But this was an assignment for my bootcamp and unfortunately I ran out of time. I could not manage to finish it. But that does not mean that it is not functional nor I won't finish it. As I said it is very fun to work on and and I'm gonna finish it ASAP. 
 ---
 
 ## How to play?
